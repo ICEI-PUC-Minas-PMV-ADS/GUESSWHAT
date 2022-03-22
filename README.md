@@ -1,23 +1,23 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto : Desenvolvimento De Uma Aplicação Móvel Em Um Ambiente De Negócio `
 
-`SEMESTRE`
+`01/2022`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Uma aplicação de palpites em relação aos indicados ao oscar.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Janaina Jamarino Rosa Fernandez Dopazo
+* Luiza Jamarino Rosa Grigorio
+* Platini
+* Priscilha
 
 ## Orientador
 
-* Nome completo do professor 1
+* Mateus Curcino de Lima
 
 ## Instruções de utilização
 
