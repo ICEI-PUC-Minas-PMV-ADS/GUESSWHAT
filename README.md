@@ -11,10 +11,10 @@ Uma aplicação de palpites em relação aos indicados ao oscar.
 ## Integrantes
 
 * Janaina Jamarino Rosa Fernandez Dopazo
-* Luiza Jamarino Rosa Grigorio
-* Platini
-* Priscilha Sansão Alves
 * Leandro David Metzker
+* Luiza Jamarino Rosa Grigorio
+* Platini Gomes da Rocha
+* Priscilha Sansão Alves
 
 ## Orientador
 
