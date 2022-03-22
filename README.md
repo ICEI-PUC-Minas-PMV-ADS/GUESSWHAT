@@ -14,6 +14,7 @@ Uma aplicação de palpites em relação aos indicados ao oscar.
 * Luiza Jamarino Rosa Grigorio
 * Platini
 * Priscilha
+* Leandro 
 
 ## Orientador
 
