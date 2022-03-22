@@ -13,12 +13,12 @@ Uma aplicação de palpites em relação aos indicados ao oscar.
 * Janaina Jamarino Rosa Fernandez Dopazo
 * Luiza Jamarino Rosa Grigorio
 * Platini
-* Priscilha
+* Priscilha Sansão Alves
 * Leandro David Metzker
 
 ## Orientador
 
-* Mateus Curcino de Lima
+* Prof. Mateus Curcino de Lima
 
 ## Instruções de utilização
 
