@@ -1,14 +1,14 @@
 # Introdução
 
-Todos os anos, a comunidade de entretenimento e oe cinéfilos ao redor do mundo voltam sua atenção para Oscar. O interesse e a expectativa aumentam até a transmissão do evento de premiação, quando centenas de milhões de amantes da sétima arte assistem à cerimônia para saber quem receberá as maiores honras do cinema. 
+Todos os anos, a comunidade de entretenimento e os cinéfilos ao redor do mundo voltam sua atenção para Oscar. O interesse e a expectativa aumentam até a transmissão do evento de premiação, quando centenas de milhões de amantes da sétima arte assistem à cerimônia para saber quem receberá as maiores honras do cinema. 
 
 ## Problema
 
-Na expectativa de pela premiação, muitas pessoas acomapnham as críticas e resenhas sobre os indicados, formam grupos, palpitam sobre quem acreditam que ganhará cada prêmio ou que gostariam que ganhasse cada prêmio. Estretanto, não há ainda, ou não pudemos encontrar, qualquer aplicação que permita aos entusiastas palpitarem, em uma divertida brincadeira entre amigos, sobre os indicados.
+Na expectativa pela premiação, muitas pessoas acompanham às críticas e resenhas sobre os indicados, formam grupos, palpitam sobre quem acreditam que ganhará cada prêmio ou quem gostariam que ganhasse cada prêmio. Entretanto, não há ainda, ou não pudemos encontrar qualquer aplicação que permita aos entusiastas palpitarem em uma divertida brincadeira entre amigos sobre os indicados.
 
-Assim, a GuessWhat se propõe a oferecer este espaço onde o usuário pode criar grupos, e os membros do grupo podem palpitar até o dia da cerimônia... Ao final da premiação, cada grupo terá também seu ganhador.
+Assim, a GuessWhat se propõe a oferecer este espaço onde o usuário pode criar grupos, e os membros do grupo podem palpitar até o dia da cerimônia. Ao final da premiação, cada grupo terá também seu ganhador.
 
-Além do espaço para jogarem entre amigos, o jogo será disponibilizado em uma página da web que contém informações sobre os indicados, e algumas resenhas críticas de autoria dos administradores da página.
+Além do espaço para jogarem entre amigos, o jogo será disponibilizado em uma página da web que contém informações sobre os indicados e algumas resenhas críticas de autoria dos administradores da página.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
