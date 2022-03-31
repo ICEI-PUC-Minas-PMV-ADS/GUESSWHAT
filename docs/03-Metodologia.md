@@ -41,6 +41,17 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
+A equipe está organizada da seguinte maneira:
+
+Scrum Master: Luiza Jamarino Rosa Grigório
+
+Product Owner: Janaina Jamarino Rosa
+
+Equipe de Desenvolvimento e Design:
+Leandro David Metzker
+Platini Gomes da Rocha
+Priscilha Sansão Alves
+
 Apresente a divisão de papéis entre os membros do grupo.
 
 > **Links Úteis**:
