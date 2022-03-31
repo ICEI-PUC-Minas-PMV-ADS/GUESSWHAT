@@ -5,6 +5,8 @@
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
+![image](https://user-images.githubusercontent.com/80931233/161157442-19bdd78c-022c-471b-84d3-cbdae359ee97.png)
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
