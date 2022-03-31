@@ -39,18 +39,17 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-A equipe está organizada da seguinte maneira:
+A equipe está organizada da seguinte maneira:<br/>
 
-Scrum Master: Luiza Jamarino Rosa Grigório
+**Scrum Master**: Luiza Jamarino Rosa Grigório <br/>
 
-Product Owner: Janaina Jamarino Rosa
+**Product Owner**: Janaina Jamarino Rosa <br/>
 
-Equipe de Desenvolvimento e Design:
-Leandro David Metzker
-Platini Gomes da Rocha
+Equipe de **Desenvolvimento e Design**: <br/>
+Leandro David Metzker <br/>
+Platini Gomes da Rocha <br/>
 Priscilha Sansão Alves
 
-Apresente a divisão de papéis entre os membros do grupo.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
@@ -59,7 +58,17 @@ Apresente a divisão de papéis entre os membros do grupo.
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Automated Kanban no próprio GitHub, estruturado com as seguintes listas:
+
+Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. <br/>
+To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. <br/> 
+Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. <br/> 
+Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+
+O quadro kanban do grupo no GitHub está disponível na URL Planejamento do Projeto (github.com) e é apresentado, no estado atual, na Figura X. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
+
+![image](https://user-images.githubusercontent.com/80931233/161159991-c95709bd-6c72-4848-8103-1a659321e0e5.png)
+
  
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
