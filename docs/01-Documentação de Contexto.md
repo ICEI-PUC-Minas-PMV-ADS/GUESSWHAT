@@ -17,9 +17,12 @@ Além do espaço para jogarem entre amigos, o jogo será disponibilizado em uma 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral do projeto é o desenvolvimento de uma aplicação interativa (GuessWhat) que permita a seus usuários palpitarem em uma divertida brincadeira sobre os indicados ao Oscar, visto que atualmente não encontramos uma aplicação similar ao projeto que disponibilize esse entretenimento.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Objetivos específicos:<br/>
+-	Criação de grupos onde os membros possam indicar seus palpites até o dia da cerimônia do Oscar;<br/>
+-	Espaço de entretenimento interativo para um jogo entre amigos que será disponibilizado em uma página web.
+
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
