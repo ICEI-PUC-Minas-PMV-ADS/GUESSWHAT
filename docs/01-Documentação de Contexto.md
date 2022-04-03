@@ -10,10 +10,6 @@ Assim, a GuessWhat se propõe a oferecer este espaço onde o usuário pode criar
 
 Além do espaço para jogarem entre amigos, o jogo será disponibilizado em uma página da web que contém informações sobre os indicados e algumas resenhas críticas de autoria dos administradores da página.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
@@ -26,26 +22,12 @@ Objetivos específicos:<br/>
 -	Indicação de vencedores , 1º 2º e 3º lugares após a cerimônia
 
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
 Considerando a paixão de muitos pela sétima arte e especialmente pelo oscar. 
 Considerando ainda, que não foi encontrado até o momento qualquer aplicação que permita aos grupos de pessoas que acompanham e palpitam sobre os indicados, que palpitem em grupos como em uma aposta e obtenham um ganhador à cada edição, o grupo optou por criar essa aplicação vinculada À uma página WEB que tenha informações sobre os indicados.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Este projetoobjetiva alcançar pessoas que acompanham as premiações relacionadas ao cinema, em especial o The Oscars, um público específicomas com faixa etária não tão bem definida que pode ir de 13 a 70 anos, separadas em grupos focais como colegas de trabalho, grupo de amigos que acomanham as premiações, grupos em família, grupos formados à partir de blogs de cinema, e etc... 
