@@ -2,76 +2,99 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
+| `Persona` | `Idade` | `Descrição` | `Como interage com seus grupos de palpite` | `Como descobre onde assistir aos indicados` | `Como palpita`  | 
+|:-----------:|:---------:|:-------------:|:---------------------------------:|:--------------:|:----------------:|:------------:|
+|Murilo Tiago Martins|38 anos|Advogado por formação e servidor público. Gosta de cinema, teatro, música e artes em geral. Acompanha todas as premiações do circuito de cinema, música e teatro, entre elas inclui o Oscar|WhatsApp e Facebook |Indicações de amigos e buscas pelo google.|Respostas aleatórias no whatsApp e/ou planilhas de excel.|
+|Ian Osvaldo Oliver da Rocha|29 anos|Estudante de Ciência da computação a ama cinema, e música. Acompanha todas as premiações do circuito de cinema, música e teatro, entre elas inclui o Oscar|WhatsApp e Facebook e chats de comunidades voltadas para o tema|Indicações de amigos e buscas pelo google.|Respostas aleatórias nas comunidades que participa e/ou planilhas de excel.|
+|Adriana Marcela Freitas|14 anos|Estudante do ensino fundamental e acabou de começar a interagir mais com um grupo de pessoas que costumas seguir as premiações do circuito e se interessar por cinema e teatro. Sonha em ser atriz|WhatsApp, Facebook, e amigos |Indicações de amigos e buscas pelo google.|planilhas de excel.|
+|Bruno Márcio da Costa|30 anos|Web designer, trabalha com uma pessoa que ama acompanhar o oscar e recentemente o qustionou sobre seus palpites|chat da empresa |Indicações de amigos.|Planilhas de excel.|
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Eu, administrador da aplicação|quero incluir a lista de indicados da edição atual|para disponibilizar aos usuários que palpitem antes da cerimônia.|
+|Eu, Murilo|criar um grupo de palpites|para brincar com meus amigos quem acerta mais vencedores entre os indicados.|
+|Eu Adriana|ver a realação do indicados a este anos e onde assistir|para conseguir assistir ao máximo de filmes possíveis antes da cerimônia e poder palpitar melhor. | 
+|Eu, Bruno|desejo palpitar após ser questionado à respeito no grupo formado pelo meu colega de trabalho|para poder participar da brincadeira.|
+|Eu, Ian|incluir uma resenha sobre algum indicado|para discutir em meu grupo, meus pensamentos sobre alguma indicado em específico.|
+|Eu, qualquer membro do grupo|quero palpitar sobre quem eu acho que ganhará cada categoria|para participar da brincadeira.|
+|Eu, qualquer membro do grupo|quero saber quem do meu grupo ganhou no jogo dos palpites|para saber se foi eu ou quem foi que ganhou.|
+|Eu, qualquer membro do grupo|quero ver a lista de ganhadores|para saber quais palpites eu acertei ou errei.|
+|Eu, criador/administrador de algum grupo|quero incluir alguém no grupo|para permitir que um amigo jogue comigo.|
+|Eu, criador/administrador de algum grupo|quero permitir ou negar a entrada de alguém no emu grupo|para evitar a entrada de pessoas desconhecidas ou não autorizadas.|
+|Eu, amigo de algum criador/administrador de algum grupo|quero fazer parte do grupo|para jogar com eles.|
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+## Modelagem do Processo de Negócio 
+
+### Análise da Situação Atual
+
+Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+
+### Descrição Geral da Proposta
+
+Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+
+### Processo 1 – NOME DO PROCESSO
+
+Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+
+
+### Processo 2 – NOME DO PROCESSO
+
+Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+
+## Indicadores de Desempenho
+
+Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+
+Usar o seguinte modelo: 
+
+
+Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-01| O aplicativo deve apresentar uma tela de login para autenticação de usuários cadastrados.| `ALTA` | 
+|RF-02| O aplicativo deve apresentar um botão na tela de login para cadastro de novos usuários através de um formulário. <br> Este formulário deve conter: <br> * Nome <br> * Data de nascimento <br> * E-mail <br> * Senha <br>| `ALTA`|
+|RF-03| O aplicativo deve apresentar um botão para criar novo grupo via formulário. <br> Este formulário deve conter: <br> * Nome <br> * botão de incluir usuários <br> * botão de convidar novos participantes <br> * Senha de administrador <br>| `ALTA`|
+|RF-04| O aplicativo deve apresentar um botão dentro da página de cada grupo para convidar novos participates. | `ALTA`|
+|RF-05| O aplicativo deve apresentar um botão na capa do grupo, de junte-se ao grupo | `ALTA`|
+|RF-06| O aplicativo deve apresentar uma central de notificações por grupos e uma para aplicação | `ALTA`|
+|RF-07| O aplicativo deve apresentar na central de notificações uma lista de membros que querem entrar no grupo | `ALTA`|
+|RF-08| O aplicativo deve apresentar na lista de membros que querem entrar no grupo, as opções de permitir e negar | `ALTA`|
+|RF-09| O aplicativo deve apresentar as bandeirinhas dos idiomas PT, EN para alternar entre versões de idiomas diferentes | `BAIXA`|
+|RF-10| O aplicativo deve apresentar uma lista de indicados ao oscar | `ALTA`|
+|RF-11| O aplicativo deve apresentar na lista de indicados ao oscar, a opção de visualizar para cada indicado | `ALTA`|
+|RF-12| O aplicativo deve apresentar um raking de melhores palpiteiros por grupo | `ALTA`|
+|RF-13| O aplicativo deve permitir edição dos palpites até o horário do início da transmissão da cerimônia de premiação | `ALTA`|
+|RF-14| O aplicatibvo deve apresentar, dentro de cada descrição de cada indicado, onde assistir com redirecionamento para a página do straming caso o filme esteja disponível em algum streaming.| `MEDIA` |
+|RF-15|O aplicativo deverá consumir de uma API com as informações referentes aos indicados.| `ALTA` |
+|RF-16|O aplicativo deverá possibilitar um mecanismo de busca por categoria, por nome, por streming.|`MÉDIA`|
+|RF-17|O aplicativo deverá consumir de uma API com a lista de vencedores.| `ALTA` |
 
 ### Requisitos não Funcionais
 
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-01|As informações cadastrais do usuário devem estar disponíveis apenas para o usuário.|`ALTA`| 
+|RNF-02|O site deverá utilizar tecnologias como React Native |`ALTA`| 
+|RNF-03|O aplicativo deve ser compatível com os sistemas operacionais Android e IOS.|`ALTA`|
+|RFN-04|O layout do aplicativo deverá se atentar aos requsitos de acessibilidade recomendados pelo W3C, principalmente no que concerne atender pessoas com deficiência visual, com deficiência auditiva e com Daltonismo|`MEDIA`|
 
 ## Restrições
 
@@ -79,15 +102,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|RE-01|O projeto deverá ser entregue funcionando no final do semestre letivo, sem ultrapassar a data 22/06/2022.|
+|RE-02|A equipe não pode subcontratar o desenvolvimento do trabalho|
+|RE-03|A equipe desenvolverá o projeto com os integrantes que compõem o grupo e todos deverão estar cientes sobre as funcionalidades do código e sistema.|
 
 ## Diagrama de Casos de Uso
 
@@ -95,9 +112,72 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
 
+A seguir encontram-se os Casos de Uso e o Diagrama de Casos de Uso.
+
+| Caso de Uso| Descrição|
+|:-----------:|:---------:|
+|Cadastro de novo usuário|Cadastra um novo usuário, caso o usuário já esteja cadastrado no aplicativo, deve retornar a mensagem "Usuário já cadastrado" |
+|Fazer login|Recebe as credenciais já cadastradas do usuário e em seguida é encaminhado para Verificar Credenciais.|
+|Verificar Credenciais|Verifica e valida as credenciais do usuário. Caso estejam incorretas então o sistema irá exibir erro de login.|
+|Palpites|Registra o palpite feito pelo usuário.|
+|Resultados|Compara os ganhadores com os palpites e rankeia os palpiteiros mais eficientes.|
+|Assistir indicado|Redireciona o usuário para plataforma de streming onde o indicado está disponível ou recomenda onde assistir se só estiver disponível nos cinemas.|
+|Pesquisar indicados|Exibir os resultados de acordo com a busca do usuário.|
+
+|Ator|Descrição|
+|:-----------:|:---------:|
+|Usuário sem cadastro|Poderá ter acesso à lista de indicados mas não pode entrar em grupos nem palpitar.|
+|Usuário com cadastro|Poderá ter acesso à lista de indicados, pode criar ou entrar em grupos, pode participar dos palpites.|
+|API|Irá fornecer as informações sobre os os indicados.|
+|API|Irá fornecer a lista dos vencedores após a cerimônia.|
+
+
+# Matriz de Rastreabilidade
+
+A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
+
+A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
+
+![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
+
 > **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
+> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
+> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
+
+![Matriz de rastreabilidade](https://user-images.githubusercontent.com/78181968/160131235-0ce512fc-5eed-46cb-b4ea-4241c63810a1.jpeg)
+
+# Gerenciamento de Projeto
+
+De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar projetos, e que caracterizam a multidisciplinaridade envolvida, são: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas. Para desenvolver projetos um profissional deve se preocupar em gerenciar todas essas dez áreas. Elas se complementam e se relacionam, de tal forma que não se deve apenas examinar uma área de forma estanque. É preciso considerar, por exemplo, que as áreas de Escopo, Cronograma e Custos estão muito relacionadas. Assim, se eu amplio o escopo de um projeto eu posso afetar seu cronograma e seus custos.
+
+## Gerenciamento de Tempo
+
+Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
+
+![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
+
+O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
+
+![Gráfico de Gantt](img/02-grafico-gantt.png)
+
+[AnimeCODE-Gráfico de Gantt.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-animecode/files/8380639/AnimeCODE-Grafico.de.Gantt.pdf)
+
+
+## Gerenciamento de Equipe
+
+O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+
+![Simple Project Timeline](img/02-project-timeline.png)
+
+![Organograma](https://user-images.githubusercontent.com/78181968/160131308-fb793e22-14ef-43ab-8d8c-ab99408e82b4.jpg)
+
+## Gestão de Orçamento
+
+O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+
+![Orçamento](img/02-orcamento.png)
+
+![Orçamento](https://user-images.githubusercontent.com/78181968/160131287-e7bc6235-5e95-4b45-a6b6-99008391dd5b.jpg)
+
+
