@@ -21,6 +21,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 > - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
 ## Wireframes
+> - [Protótipo navegável Figma](https://www.figma.com/file/f3iXapYn4nW7STkD1DODL2/Untitled?node-id=0%3A1)
+![Vídeo de demonstração](img/VideoDemo.mp4)
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
