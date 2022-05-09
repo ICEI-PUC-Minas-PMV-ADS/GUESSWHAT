@@ -15,7 +15,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 ## Modelo ER
 
-[Modelo ER](\img\modeloER.jpeg)
+![Modelo ER](img/modeloER.jpeg)
+
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
