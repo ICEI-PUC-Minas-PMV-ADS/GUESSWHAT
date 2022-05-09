@@ -40,18 +40,19 @@ Hodiernamente não existem aplicações para que os apaixonados pela premiação
 Criação de uma página web com informações da premiação do ano, informações sobre os indicados, e jogo de palpites sobre possíveis indicados que receberão os prêmios.
 Criar um jogo em que cada membro pode jogar entre grupos diferentes, e aqueles que acertarem mais palpites ganham os jogos.
 
+![Modelo ER](img/processoGeral.jpeg)
+
 ### Processo 1 – Criar ou Entrar em um Grupo
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
-
+![Modelo ER](img/processo1.jpeg)
 
 ### Processo 2 – Dar Palpite
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+![Modelo ER](img/processo2.jpeg)
 
 ### Processo 3 – Calcular membros vencedors
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+![Modelo ER](img/processo3.jpeg)
 
 ## Indicadores de Desempenho
 
