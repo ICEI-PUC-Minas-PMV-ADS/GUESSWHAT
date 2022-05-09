@@ -23,7 +23,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 > - [Protótipo navegável Figma](https://www.figma.com/file/f3iXapYn4nW7STkD1DODL2/Untitled?node-id=0%3A1)
-> -
+
+
 ![Vídeo de demonstração](img/VideoDemo.mp4)
 
 ![Exemplo de Wireframe](img/figma.png)
