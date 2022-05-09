@@ -1,6 +1,6 @@
 
 # Projeto de Interface
-test
+
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
@@ -26,7 +26,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 > -
 ![Vídeo de demonstração](img/VideoDemo.mp4)
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+![Exemplo de Wireframe](img/figma.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
