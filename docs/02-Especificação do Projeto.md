@@ -33,19 +33,23 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 ## Modelagem do Processo de Negócio 
 
 ### Análise da Situação Atual
-
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Hodiernamente não existem aplicações para que os apaixonados pela premiação possam dar seus palpites. O que os grupos fazem hoje é comentarem entre si ou em chats sobre o tema ou fazer planilhas de excel para jogarem entre pequenos grupos
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Criação de uma página web com informações da premiação do ano, informações sobre os indicados, e jogo de palpites sobre possíveis indicados que receberão os prêmios.
+Criar um jogo em que cada membro pode jogar entre grupos diferentes, e aqueles que acertarem mais palpites ganham os jogos.
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Criar ou Entrar em um Grupo
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
 
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – Dar Palpite
+
+Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+
+### Processo 3 – Calcular membros vencedors
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
 
