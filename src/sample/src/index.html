@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<!-- saved from url=(0029)/ -->
+<html lang="pt"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>GuessWhat</title>
+
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="Página padrão" name="description">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta name="description" content="The Oscars">
+<link href="./guesswhat_files/bootstrap.min.css" rel="stylesheet">
+<script src="./guesswhat_files/jquery.min.js.download"></script>
+<script src="./guesswhat_files/bootstrap.min.js.download"></script>
+<link href="./guesswhat_files/font-awesome.min.css" rel="stylesheet">
+<link href="./guesswhat_files/css" rel="stylesheet">
+         Load external CSS styles 
+        <link rel="stylesheet" href="./first.css">
+<style>
+        body {
+            font-family: 'Open Sans', 'Helvetica', sans-serif;
+            color: #000;
+            padding: 0;
+            margin: 0;
+            line-height: 1.428;
+        }
+        h1, h2, h3, h4, h5, h6, p {
+            padding: 0;
+            margin: 0;
+            color:#333333;
+        }
+        h1 {
+            font-size: 30px;
+            font-weight: 600!important;
+            color: #333;
+        }
+        h2 {
+            font-size: 24px;
+            font-weight: 600;
+        }
+        h3 {
+            font-size: 22px;
+            font-weight: 600;
+            line-height: 28px;
+        }
+        hr {
+            margin-top: 35px;
+            margin-bottom: 35px;
+            border: 0;
+            border-top: 1px solid #bfbebe;
+        }
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        li {
+            display: inline-block;
+            float: right;
+            margin-left: 20px;
+            line-height: 35px;
+            font-weight: 100;
+        }
+        a {
+            text-decoration: none;
+            cursor: pointer;
+            -webkit-transition: all .3s ease-in-out;
+            -moz-transition: all .3s ease-in-out;
+            -ms-transition: all .3s ease-in-out;
+            -o-transition: all .3s ease-in-out;
+            transition: all .3s ease-in-out;
+        }
+        li a {
+            color: white;
+            margin-left: 3px;
+        }
+        li > i {
+            color: white;
+        }
+        .column-wrap a {
+            color: black;
+            font-weight: 600;
+            font-size:16px;
+            line-height:24px;
+        }
+        .column-wrap p {
+            color: #white;
+            font-size:16px;
+            line-height:24px;
+            font-weight:300;
+        }
+		.column-custom h3,p{
+			color: white;
+		}
+        .container {
+            margin-top: 100px;
+        }
+        .navbar {
+            position: relative;
+            min-height: 45px;
+            margin-bottom: 20px;
+            border: 1px solid transparent;
+        }
+        .navbar-brand {
+            float: left;
+            height: auto;
+            padding: 10px 10px;
+            font-size: 18px;
+            line-height: 20px;
+        }
+        .navbar-nav>li>a {
+            padding-top: 11px;
+            padding-bottom: 11px;
+            font-size: 13px;
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+        .navbar-nav>li>a:hover {
+            text-decoration: none;
+            color: #cdc3ea!important;
+        }
+        .navbar-nav>li>a i {
+            margin-right: 5px;
+        }
+        .nav-bar img {
+            position: relative;
+            top: 3px;
+        }
+        .congratz {
+            margin: 0 auto;
+            text-align: center;
+        }
+        .message {
+            width: 50%;
+            margin: 0 auto;
+            height: auto;
+            padding: 40px;
+            background-color: #434343;
+            margin-bottom: 100px;
+            border-radius: 5px;
+            position:relative;
+        }
+        .message p {
+            font-weight: 300;
+            font-size: 16px;
+            line-height: 24px;
+        }
+        #pathName {
+            margin: 20px 10px;
+            color: grey;
+            font-weight: 300;
+            font-size:18px;
+            font-style: italic;
+        }
+        .column-custom {
+            border-radius: 5px;
+            background-color: rgb(199, 159, 39);
+            padding: 35px;
+            margin-bottom: 20px;
+        }
+        .footer {
+            font-size: 13px;
+            color: gray !important;
+            margin-top: 25px;
+            line-height: 1.4;
+            margin-bottom: 45px;
+        }
+        .footer a {
+            cursor: pointer;
+            color: #646464 !important;
+            font-size: 12px;
+        }
+        .copyright {
+            color: #646464 !important;
+            font-size: 12px;
+        }
+        .navbar a {
+            color: white !important;
+        }
+        .navbar {
+            border-radius: 0px !important;
+        }
+        .navbar-inverse {
+            background-color: #434343;
+            border: none;
+        }
+        .column-custom-wrap{
+            padding-top: 10px 20px;
+        }
+        @media screen and (max-width: 768px) {
+            .message {
+                width: 50%;
+                padding: 35px;
+            }
+            .container {
+                margin-top: 30px;
+            }
+        }
+        @media screen and (max-width: 650px) {
+            .message {
+                width: 100%;
+                padding: 35px;
+            }
+            
+        }
+        }
+    </style>
+</head>
+<body data-new-gr-c-s-check-loaded="14.1052.0" data-gr-ext-installed="">
+<nav class="navbar navbar-inverse">
+<div class="container-fluid">
+<div class="navbar-header">
+<button class="navbar-toggle" data-target="#myNavbar" data-toggle="collapse" type="button">
+<span class="icon-bar"></span> <span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="" target="_blank"><img src="./img/logo.png" width="120" alt="GuessWhat"></a>
+</div>
+<div class="collapse navbar-collapse" id="myNavbar">
+<ul class="nav navbar-nav navbar-right">
+<li>
+<a href="" rel="nofollow" target="_blank"><i aria-hidden="true" class="fa fa-info-circle"></i> The Oscars</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="empty-account-page">
+<div class="container">
+<div class="row congratz">
+<h1>Bem vindos ao GuessWhat e divirta-se</h1><em></em>
+</div>
+<br>
+<div class="row message">
+<p>The OSCARS®
+<br> <br>
+<br>Caso tenha alguma observação, sinta-se à vontade para nos contatar!<br>
+<br> Divirt-se
+</p>
+</div>
+
+<div class="column-wrap clearfix">
+<div class="col-xs-12">
+<hr>
+</div>
+<div class="col-xs-12 col-sm-4 column-custom-wrap">
+<div class="column-custom">
+<h3>Grupos</h3>
+<br>
+<p>Monte seus grupos ou se junte a un existente</p>
+<br>
+<a href="" rel="nofollow">Crie um grupo:</a>
+<a href="" rel="nofollow">Junte-se a um grupo existente:</a>
+</div>
+<div class="col-xs-12 col-sm-4 column-custom-wrap">
+<div class="column-custom">
+<h3>Os Indicados</h3>
+<br>
+<p>Aqui temos os indicados ao 94TH OSCARS® </p>
+<br>
+<a href="" rel="nofollow">See:</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 column-custom-wrap">
+<div class="column-custom">
+<h3 style="padding-bottom: 5px">Advinha só</h3>
+<br>
+<p>E o Oscar vai para...</p>
+<br>
+<a href="" rel="nofollow">Conte-nos seus palpites/a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 column-custom-wrap">
+<div class="column-custom">
+<h3 style="padding-bottom: 5px">Os Vencedores</h3>
+<br>
+<p>E o Oscar vai para...</p>
+<br>
+<a href="" rel="nofollow">Veja os vencedores</a>
+</div>
+</div>
+</div>
+<div class="footer">
+<div class="row">
+<div class="text-center" style="margin-bottom: 10px;">
+<a href="" rel="nofollow">Contato</a>
+</div>
+<div class="copyright text-center">
+GuessWhat © 2022. Todos os direitos reservados
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
+<!doctype html>
+
