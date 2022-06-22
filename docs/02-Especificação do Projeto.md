@@ -141,14 +141,25 @@ A seguir encontram-se os Casos de Uso e o Diagrama de Casos de Uso.
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
+|ID    |   | Dependência |
+|------|-----------------------------------------|----|
+|RF-01| O aplicativo deve apresentar uma tela de login para autenticação de usuários cadastrados.| -- | 
+|RF-02| O aplicativo deve apresentar um botão na tela de login para cadastro de novos usuários através de um formulário. <br> Este formulário deve conter: <br> * Nome <br> * Data de nascimento <br> * E-mail <br> * Senha <br>| RF-01|
+|RF-03| O aplicativo deve apresentar um botão para criar novo grupo via formulário. <br> Este formulário deve conter: <br> * Nome <br> * botão de incluir usuários <br> * botão de convidar novos participantes <br> * Senha de administrador <br>| |
+|RF-04| O aplicativo deve apresentar um botão dentro da página de cada grupo para convidar novos participates. | RF-03|
+|RF-05| O aplicativo deve apresentar um botão na capa do grupo, de junte-se ao grupo | RF-03|
+|RF-06| O aplicativo deve apresentar uma central de notificações por grupos e uma para aplicação | -- |
+|RF-07| O aplicativo deve apresentar na central de notificações uma lista de membros que querem entrar no grupo | RF-06 |
+|RF-08| O aplicativo deve apresentar na lista de membros que querem entrar no grupo, as opções de permitir e negar | RF-06 e RF-07 |
+|RF-09| O aplicativo deve apresentar as bandeirinhas dos idiomas PT, EN para alternar entre versões de idiomas diferentes | -- |
+|RF-10| O aplicativo deve apresentar uma lista de indicados ao oscar | -- |
+|RF-11| O aplicativo deve apresentar na lista de indicados ao oscar, a opção de visualizar para cada indicado | RF-10 |
+|RF-12| O aplicativo deve apresentar um raking de melhores palpiteiros por grupo | -- |
+|RF-13| O aplicativo deve permitir edição dos palpites até o horário do início da transmissão da cerimônia de premiação | -- |
+|RF-14| O aplicatibvo deve apresentar, dentro de cada descrição de cada indicado, onde assistir com redirecionamento para a página do streaming caso o filme esteja disponível em algum streaming.| -- |
+|RF-15|O aplicativo deverá consumir de uma API com as informações referentes aos indicados.| Criar a API Interma |
+|RF-16|O aplicativo deverá possibilitar um mecanismo de busca por categoria, por nome, por streming.| -- |
+|RF-17|O aplicativo deverá consumir de uma API com a lista de vencedores.| RF-15 |
 
 
 # Gerenciamento de Projeto
