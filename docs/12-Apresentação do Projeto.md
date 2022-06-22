@@ -7,14 +7,20 @@ O grupo utilizou:
 > - Figma para design
 
 # Status atual das contribuições dos Membros:
-|Atividade|Executores|Status|
-|Documentação|Priscilha e Platini|
-|Requisitis|Janaina, Luiza e Leandro|
-|Matriz de rastreabilidade|Janaina|
-|Design Figma|Leandro|
-|BPM | Luiza|
-|Desenvolvimento|Janaina|
-|Slides|Luiza|
+
+|Atividade|Executores |Status              |
+|--------------------|------------------------------------|----------------------------------------|
+|Documentação|Priscilha e Platini| |
+|Requisitis|Janaina, Luiza e Leandro| |
+|Matriz de rastreabilidade|Janaina| |
+|Design Figma|Leandro| |
+|BPM | Luiza| |
+|Desenvolvimento|Janaina| |
+|Slides e Script do banco|Luiza| |
+
+
+
+
 
 # Apresentação 
 
