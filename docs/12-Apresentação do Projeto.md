@@ -20,7 +20,9 @@ O grupo utilizou:
 
 
 
+# Análise Crítica e proposta de melhorias:
 
+Embora tenhamos tido a ideia antes do inicio efetivo do semestre, houve uma demora considerável por parte da faculdade em liberar o git para início do projeto e depois com o acúmulo de tarefas o grupo não realizou as entregas a contenti. Com proposta de melhorias futuras, intenta-se finalizar a implementação de fatoe colocar a aplicação no ar, além da criação de um blog sobre o tema dentro do mesmo ambiente.
 
 # Apresentação 
 
