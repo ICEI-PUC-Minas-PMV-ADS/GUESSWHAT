@@ -1,4 +1,22 @@
-# Apresentação
+# Considerações Finais 
+
+O grupo utilizou: 
+> - Gitihub como repositório compartilhado
+> - Whatsapp pra discussões entre os membros
+> - React, HTML e CSS pra desenvolvimento
+> - Figma para design
+
+# Status atual das contribuições dos Membros:
+|Atividade|Executores|Status|
+|Documentação|Priscilha e Platini|
+|Requisitis|Janaina, Luiza e Leandro|
+|Matriz de rastreabilidade|Janaina|
+|Design Figma|Leandro|
+|BPM | Luiza|
+|Desenvolvimento|Janaina|
+|Slides|Luiza|
+
+# Apresentação 
 
 <span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
 
@@ -6,22 +24,13 @@ Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do proje
 
 ## Título do Projeto
 
-Adivinha Só
+Adivinha Só [Guess What]
 
 ## Identidade Visual (Marca, Design)
 
-O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
-
-> **Links Úteis**:
-> - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
-> - [7 dicas de design para criar apresentações de PowerPoint incríveis e eficientes](https://www.shutterstock.com/pt/blog/7-dicas-de-design-para-criar-apresentacoes-de-powerpoint-incriveis-e-eficientes)
-> - [Especialista do TED dá 10 dicas para criar slides eficazes e bonitos](https://soap.com.br/blog/especialista-do-ted-da-10-dicas-para-criar-slides-eficazes-e-bonitos)
+Guess What (Advinha), em dourado, preto e branco  de forma a remeter à imagem da estatueta do oscar.
 
 ## Conjunto de Slides (Estrutura)
 
-O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos.
+> - [Slides](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
  
-> **Links Úteis**:
-> - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
-> - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
-> - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
