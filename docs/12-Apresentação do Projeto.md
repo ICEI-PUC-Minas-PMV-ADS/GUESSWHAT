@@ -10,13 +10,13 @@ O grupo utilizou:
 
 |Atividade|Executores |Status              |
 |--------------------|------------------------------------|----------------------------------------|
-|Documentação|Priscilha e Platini| |
-|Requisitis|Janaina, Luiza e Leandro| |
-|Matriz de rastreabilidade|Janaina| |
-|Design Figma|Leandro| |
-|BPM | Luiza| |
-|Desenvolvimento|Janaina| |
-|Slides e Script do banco|Luiza| |
+|Documentação|Priscilha e Platini| OK |
+|Requisitos|Janaina, Luiza e Leandro| ok |
+|Matriz de rastreabilidade|Janaina| ok |
+|Design Figma|Leandro| ok |
+|BPM | Luiza| ok |
+|Desenvolvimento|Janaina| Em progresso |
+|Slides e Script do banco|Luiza| ok |
 
 
 
