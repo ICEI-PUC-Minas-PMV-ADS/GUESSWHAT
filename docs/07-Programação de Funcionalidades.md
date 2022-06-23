@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-Funcionalidades implementadas até o momento estão no arquivo SRC
+Funcionalidades implementadas até o momento estão no arquivo Sample - SRC
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/GUESSWHAT/blob/main/docs/img/indicados.jpeg)
 
