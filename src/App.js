@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import indicados from './indicados';
 
 function App() {
   return (
@@ -8,17 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Veja os indicados em <code>src/indicados.js</code> e dê seu palpite.
-          
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
-          href= './indicados.js'
-          target={<indicados/>}
-        
+          href="https://reactjs.org"
+          target="_blank"
           rel="noopener noreferrer"
         >
-          E os indicados são:
+          Learn React
         </a>
       </header>
     </div>

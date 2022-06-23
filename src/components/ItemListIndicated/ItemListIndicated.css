@@ -1,0 +1,15 @@
+.title-item-list-indicated {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #000000;
+
+}
+
+.slider{
+    background-color: #423F3F;
+    margin: 1vh 0 5vh;
+}

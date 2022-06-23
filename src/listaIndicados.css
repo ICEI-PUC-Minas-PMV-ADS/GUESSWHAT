@@ -1,0 +1,35 @@
+body {
+    background: #D0B34B;
+}
+
+.container-lista-indicados {
+    background: #D0B34B;
+    /* min-height: 100vh; */
+}
+
+.content-lista-indicados {
+    margin: 2% 8%
+}
+
+.buttons-action {
+    text-align: end;
+    margin-top: 2vh;
+}
+
+.icon-right {
+    margin-left: 3vw;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
+
+footer p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+    color: #000000;
+}

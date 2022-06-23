@@ -1,0 +1,19 @@
+.box-title{
+    background: #423F3F;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    /* margin: 2%; */
+    padding: 2% 5%;
+}
+
+.title{
+    font-weight: 800;
+}
+
+.icon-title{
+    color: white;
+    font-size: 20px;
+}
