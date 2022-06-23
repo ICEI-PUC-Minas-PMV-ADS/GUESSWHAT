@@ -2,7 +2,8 @@
 
 Funcionalidades implementadas até o momento estão no arquivo SRC
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/GUESSWHAT/blob/main/docs/img/indicados.jpeg
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/GUESSWHAT/blob/main/docs/img/indicados.jpeg)
+
 
 > **Links Úteis**:
 >
