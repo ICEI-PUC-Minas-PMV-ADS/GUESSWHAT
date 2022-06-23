@@ -2,6 +2,8 @@
 
 Funcionalidades implementadas até o momento estão no arquivo SRC
 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/GUESSWHAT/blob/main/docs/img/indicados.jpeg
+
 > **Links Úteis**:
 >
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
