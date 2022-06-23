@@ -40,5 +40,5 @@ Guess What (Advinha), em dourado, preto e branco  de forma a remeter à imagem d
 
 ## Conjunto de Slides (Estrutura)
 
-> - [Slides](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
+> - [Slides](https://docs.google.com/presentation/d/1yiyrB-MmVJXBCAnLW-P2VQeLHM-ceUFM/edit?usp=sharing&ouid=117503008389941422615&rtpof=true&sd=true)
  
